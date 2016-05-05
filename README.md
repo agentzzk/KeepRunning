@@ -8,5 +8,4 @@
 - HEX code based image drawing on the LED
 
 <br>
-Thanks, AgentZ
-######(i.e. Zain) -> AgentZ is my cool name =)
+AgentZ
